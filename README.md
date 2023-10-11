@@ -30,6 +30,7 @@ Enjoy testing your memory with the Simon Game!
 - Classic Simon Game implementation.
 - Interactive gameplay with Visual and Auditory feedback.
 - Colorful buttons representing different game elements.
+- Sound effects for each button press and sequence.
 - Increasing difficulty levels as the game progresses.
 
 ## Snap
