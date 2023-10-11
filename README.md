@@ -32,7 +32,6 @@ Enjoy testing your memory with the Simon Game!
 - Colorful buttons representing different game elements.
 - Sound effects for each button press and sequence.
 - Increasing difficulty levels as the game progresses.
-- - Sound effects for each button press and sequence.
 
 ## Snap
 
